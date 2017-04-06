@@ -69,7 +69,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>org.dashfoundation.dash</string>
+			<string>org.dashfoundation.dash.mikekinney</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>bread</string>
